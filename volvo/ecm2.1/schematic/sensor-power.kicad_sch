@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9cfd8984-c568-487a-ab13-70d16f48bf5d)
+
+  (paper "A4")
+
+  (title_block
+    (title "Sensor power 5V")
+    (rev "-")
+    (company "Volvo ECM2.1")
+  )
+
+  (lib_symbols
+  )
+
+)
