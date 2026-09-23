@@ -4,7 +4,7 @@ Article numer: 60100001 P06
 
 # Description
 
-This unit is an ECM2.1 for a TAD734GE 6 Cylinder 250kW diesel Eegine.
+This unit is an ECM2.1 for a TAD734GE 6 Cylinder 250kW diesel Engine.
 
 # Utilities used to create the drawings
 
